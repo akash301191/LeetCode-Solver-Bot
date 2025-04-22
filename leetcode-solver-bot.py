@@ -77,7 +77,7 @@ def generate_solution(solution_preferences):
     extra_material = solution_preferences["extra_material"] 
 
     leetcode_solver_agent = Agent(
-        model=OpenAIChat(id="gpt-4o", api_key=st.session_state.openai_api_key),
+        model=OpenAIChat(id="o4-mini", api_key=st.session_state.openai_api_key),
         name="LeetCode Solver",
         role="Reads LeetCode problem screenshots and generates optimized solutions with explanations.",
         description=(
