@@ -1,6 +1,6 @@
 # LeetCode Solver Bot
 
-LeetCode Solver Bot is a smart Streamlit application that reads LeetCode problem screenshots and generates clean, optimized code solutions along with step-by-step explanations. Powered by [Agno](https://github.com/agno-agi/agno) and OpenAI's GPT-4o, this bot enhances your coding workflow by turning visual prompts into precise, well-explained solutions.
+LeetCode Solver Bot is a smart Streamlit application that reads LeetCode problem screenshots and generates clean, optimized code solutions along with step-by-step explanations. Powered by [Agno](https://github.com/agno-agi/agno) and OpenAI's o4-mini, this bot enhances your coding workflow by turning visual prompts into precise, well-explained solutions.
 
 ## Folder Structure
 
